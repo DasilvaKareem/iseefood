@@ -1,0 +1,16 @@
+.venv*/
+models/
+.cache/
+outputs/
+uploads/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+node_modules/
+.next/
+data/
+*.tsbuildinfo
+test-results/
+playwright-report/
